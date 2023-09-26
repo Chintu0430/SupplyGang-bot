@@ -89,7 +89,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
-                    InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/HDMAXX")
+                    InlineKeyboardButton("ɢʀᴏᴜᴘ", url=f"https://t.me/moviessupplier90")
                 ]
             ]
         )
@@ -124,7 +124,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "💎ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ💎",
-                 url=f"https://t.me/HDMAXX")
+                 url=f"https://t.me/Moviessupplierofficial")
         ]
     ]
     try:
